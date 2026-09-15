@@ -1,6 +1,6 @@
 # FunctionalGenomics_CoffeaArabica
 
-TERMINAL CODE FOR MEME AND FIMO
+BASH CODE FOR MEME AND FIMO
 # Files for the terminal
 CR95_induced_genes.txt
 Catuai_induced_genes.txt
